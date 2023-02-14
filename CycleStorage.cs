@@ -1,5 +1,5 @@
 ﻿/*
-Copyright (c) Luchunpen (bwolf88).  All rights reserved.
+Copyright (c) Luchunpen.
 Date: 13.06.2016 1:32:40
 */
 
